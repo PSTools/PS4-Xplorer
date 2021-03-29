@@ -91,7 +91,6 @@
 			<method name="FirmawareClic"/>
 			<method name="FirmawareClic"/>
 			<method name="FirmawareClic"/>
-			<method name="FirmawareClic"/>
 		</type>
 		<type fullname="SeleccionarLenguaje">
 			<method name="LenguajeClic"/>
